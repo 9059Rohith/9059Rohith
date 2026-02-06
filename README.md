@@ -372,51 +372,125 @@ const rohith: Developer = {
 
 ---
 
-## 🤝 Connect With Me
+<br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rohith-kumar-dhamagatla/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://kaggle.com/rohithd2006">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="https://instagram.com/rohith.d.2006">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://codepen.io/rohith-kumar-dhamagatla">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/rohith-kumar-dhamagatla">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/rohith-kumar-dhamagatla">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
+## 🤝 Let's Connect & Collaborate!
 
-### 📧 Email: cb.sc.u4cse23018@cb.students.amrita.edu
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohith-kumar-dhamagatla/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://kaggle.com/rohithd2006">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://github.com/9059rohith">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/rohith.d.2006">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/rohith-kumar-dhamagatla">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://codepen.io/rohith-kumar-dhamagatla">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
+  </a>
+  <a href="https://www.hackerrank.com/rohith-kumar-dhamagatla">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="mailto:cb.sc.u4cse23018@cb.students.amrita.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+      <br/><b>💼 Open for Opportunities</b>
+      <br/><sub>Full Stack | AI/ML | Research</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="200" />
+      <br/><b>🚀 Open to Collaborate</b>
+      <br/><sub>Open Source | Research Projects</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-aa0a-a9389d3e105f.png" width="200" />
+      <br/><b>📬 Let's Talk!</b>
+      <br/><sub>Always happy to discuss tech</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭 Dev Wisdom
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Dev Humor
+### 😄 Here's a Joke to Brighten Your Day!
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
+</div>
+
+<br/>
 
 ---
 
-### ✨ *"Code is poetry written in logic"*
+<br/>
 
-**⭐ From [9059rohith](https://github.com/9059rohith)**
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+### 🎯 2024 Goals
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+- ✅ Build production-ready AI applications
+- ✅ Contribute to open-source AI projects
+- ✅ Publish research papers in top conferences
+- ✅ Master advanced LLM architectures
+- ✅ Build a strong developer community
+
+<br/>
+
+### ✨ *"Code is poetry, algorithms are art, and deployment is the masterpiece"*
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br/>
+
+### ⭐ If you like my work, consider starring my repositories!
+
+[![GitHub followers](https://img.shields.io/github/followers/9059rohith?label=Follow&style=social)](https://github.com/9059rohith)
+[![GitHub stars](https://img.shields.io/github/stars/9059rohith?label=Stars&style=social)](https://github.com/9059rohith)
+
+<br/>
+
+**💙 Thank you for visiting my profile! Let's build something amazing together! 💙**
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
