@@ -1,131 +1,486 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohith%20Kumar%20Dhamagatla&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=🚀%20ROHITH%20KUMAR%20🌌&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🛸%20Navigating%20the%20Digital%20Universe%20•%20AI%20Astronaut%20•%20Code%20Explorer%20🌠&descAlignY=55&descSize=20" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FFcc&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+AI+Researcher;Building+Intelligent+Systems+with+Deep+Learning;Transforming+Healthcare+through+Medical+AI;LLM+Explorer+%7C+MLOps+Engineer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=F7931A&background=000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=140&lines=🌟+FULL+STACK+DEVELOPER+%7C+AI+RESEARCHER+🌟;🛰️+Building+The+Future+%7C+One+Commit+at+a+Time;🌌+Medical+AI+%7C+96%25+Accuracy+%7C+Saving+Lives+🏥;💫+Deep+Learning+%2B+LLMs+%2B+Innovation+%3D+MAGIC+✨" alt="Typing SVG" /></a>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<br/><br/>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/🌐_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/rohith-kumar-dhamagatla/)
+[![Kaggle](https://img.shields.io/badge/📊_Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=000000)](https://kaggle.com/rohithd2006)
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://grand-sherbet-631686.netlify.app/home.html)
+[![Gmail](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:cb.sc.u4cse23018@cb.students.amrita.edu)
+[![GitHub](https://img.shields.io/badge/⭐_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/9059rohith)
+
 </div>
 
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohith-kumar-dhamagatla/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/rohithd2006"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
-  <a href="mailto:cb.sc.u4cse23018@cb.students.amrita.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://grand-sherbet-631686.netlify.app/home.html"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://instagram.com/rohith.d.2006"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=9059rohith&label=🛸+Galactic+Visitors&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/9059rohith?label=🌟+Star+Followers&style=for-the-badge&color=yellow&labelColor=000000" />
+  <img src="https://img.shields.io/github/stars/9059rohith?label=⭐+Constellation+Stars&style=for-the-badge&color=orange&labelColor=000000" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=9059rohith&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/9059rohith?label=Followers&style=for-the-badge&color=green" alt="followers" />
-  <img src="https://img.shields.io/github/stars/9059rohith?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  
+  <br/><br/>
+  
+  **🌌 CAPTAIN'S LOG 🌌**
+  
+  ```python
+  #!/usr/bin/env python3
+  """
+  🚀 SPACE MISSION CONTROL 🚀
+  Exploring the Cosmos of Code & AI
+  """
+  
+  class SpaceExplorer:
+      def __init__(self):
+          self.call_sign = "ROHITH-9059"
+          self.mission = "AI Innovation & Full Stack Mastery"
+          self.base = "Amrita Vishwa Vidyapeetham 🎓"
+          self.sector = "Coimbatore, India 🇮🇳"
+          
+      def current_missions(self):
+          return {
+              "🛰️ SAATHI AI": "LLM-powered Copilot System",
+              "🏥 MEDICAL AI": "96% Accuracy Life Saver",
+              "🔬 RESEARCH": "Explainable AI for Healthcare",
+              "📡 LEARNING": "Advanced LLM Architectures"
+          }
+      
+      def launch_sequence(self):
+          print("🚀 3... 2... 1... LAUNCH!")
+          print("🌟 Building the future, one line at a time")
+          print("💫 Making AI explainable & trustworthy")
+          print("⚡ Code quality: STELLAR ⭐⭐⭐⭐⭐")
+  
+  # Mission Status: ACTIVE ✅
+  explorer = SpaceExplorer()
+  explorer.launch_sequence()
+  ```
+  
+</td>
+<td width="50%" align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=9059rohith&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7931A&icon_color=F7931A&text_color=FFFFFF" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9059rohith&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7931A&ring=F7931A&fire=FF6B6B&currStreakLabel=FFFFFF" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9059rohith&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7931A&text_color=FFFFFF" />
+  
+</td>
+</tr>
+</table>
 
-<div align="left">
+<br/>
 
-## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```python
-class RohithKumar:
-    def __init__(self):
-        self.name = "Rohith Kumar Dhamagatla"
-        self.role = "Full Stack Developer & AI Researcher"
-        self.education = "Amrita Vishwa Vidyapeetham"
-        self.location = "Coimbatore, India"
-        self.current_work = ["Saathi AI", "Medical AI Research"]
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "TypeScript", "C++", "Go", "Java"],
-            "frontend": ["React", "Next.js", "Vue.js", "React Native", "Flutter"],
-            "backend": ["Node.js", "Express", "MongoDB", "PostgreSQL", "Redis"],
-            "ai_ml": ["TensorFlow", "PyTorch", "Keras", "OpenCV", "Scikit-learn"],
-            "cloud_devops": ["AWS", "Docker", "Kubernetes", "Kafka", "Linux"],
-            "specialization": ["Deep Learning", "Computer Vision", "NLP", "LLMs"]
-        }
-    
-    def current_focus(self):
-        return "Building explainable AI systems for healthcare"
+<br/>
+
+<div align="center">
+
+## 🌠 TECH GALAXY 🌠
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
+**Navigate Through My Technology Universe**
+
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+**🎨 FRONTEND NEBULA**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,flutter,figma&theme=dark&perline=5" />
+
+</td>
+<td valign="top" width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+**⚡ BACKEND COSMOS**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,mysql,redis,kafka,go,java&theme=dark&perline=5" />
+
+</td>
+<td valign="top" width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**🤖 AI CONSTELLATION**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+**☁️ CLOUD GALAXY**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github&theme=dark&perline=3" />
+
+</td>
+<td valign="top" width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+**💻 LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,go&theme=dark&perline=3" />
+
+</td>
+<td valign="top" width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+
+**🛠️ TOOLS & MORE**
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,grafana,ps&theme=dark&perline=4" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<div align="center">
+
+## 🎯 MISSION BRIEFING: ACTIVE PROJECTS 🎯
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80">
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400">
+
+### 🤖 SAATHI AI - INTELLIGENT COPILOT
+
+[![Repo](https://img.shields.io/badge/🚀_LAUNCH_MISSION-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/RYL-NEUROACADEMY-PRIVATE-LIMITED/Saathi-Copilot-assistant-)
+
+```typescript
+🛸 MISSION STATS
+├─ Status: ✅ OPERATIONAL
+├─ Power: ⚡⚡⚡⚡⚡ (LLMs)
+├─ Intelligence: 🧠 ADVANCED
+└─ Impact: 🌟 REVOLUTIONARY
 ```
 
-</div>
+**⚡ CORE SYSTEMS:**
+- 🎯 Context-Aware AI Responses
+- 🧠 Real-Time Learning Engine
+- 📊 Advanced NLP Processing
+- 🔗 Multi-Model Orchestration
 
-<br clear="right"/>
+**🔧 TECH STACK:** Python • TensorFlow • React • LangChain • Node.js
 
-</div>
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="400">
+
+### 🏥 MEDICAL AI - LIFE SAVER PROTOCOL
+
+[![Published](https://img.shields.io/badge/📜_RESEARCH_PUBLISHED-FF5722?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=000000)](https://grand-sherbet-631686.netlify.app/)
+
+```typescript
+🛸 MISSION STATS
+├─ Status: ✅ SAVING LIVES
+├─ Accuracy: 96.0% 🎯
+├─ AUC-ROC: 0.982 ⭐
+└─ Grade: 🏥 CLINICAL
+```
+
+**⚡ BREAKTHROUGH RESULTS:**
+- 📈 96.0% Classification Accuracy
+- 🎯 0.982 AUC-ROC Score
+- 🔍 Grad-CAM Explainability
+- 💡 State-of-the-Art Performance
+
+**🔧 TECH STACK:** Python • TensorFlow • Keras • OpenCV • LUNA16
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="400">
+
+### 🌐 PORTFOLIO - DIGITAL SPACE STATION
+
+[![Live](https://img.shields.io/badge/🌟_VISIT_STATION-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://grand-sherbet-631686.netlify.app/home.html)
+
+```typescript
+🛸 STATION SPECS
+├─ Design: ✨ STUNNING
+├─ Speed: ⚡ BLAZING FAST
+├─ UX: 🎨 BEAUTIFUL
+└─ Mobile: 📱 RESPONSIVE
+```
+
+**⚡ FEATURES:**
+- ✨ Interactive Animations
+- 🎨 Modern Glassmorphism
+- 📱 Fully Responsive
+- ⚡ Performance Optimized
+
+**🔧 TECH STACK:** React • TailwindCSS • Framer Motion
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400">
+
+### 🔮 FUTURE MISSIONS - IN DEVELOPMENT
+
+[![GitHub](https://img.shields.io/badge/🚀_MORE_LAUNCHES-FFD700?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000)](https://github.com/9059rohith)
+
+```typescript
+🛸 NEXT MISSIONS
+├─ NLP: 🧠 IN PROGRESS
+├─ MLOps: 🔄 PLANNING
+├─ Real-time AI: 🎮 DESIGNING
+└─ Research: 📚 ONGOING
+```
+
+**⚡ UPCOMING:**
+- 🧠 Advanced NLP Systems
+- 🎮 Real-Time AI Applications
+- 📊 MLOps Automation
+- 🔬 Healthcare AI Research
+
+**🔧 STATUS:** 🚀 LAUNCHING SOON
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
 <div align="center">
 
-## 💼 What I'm Up To
+## 📡 SPACE STATION ANALYTICS 📡
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🔭_Currently_Working-Saathi_AI_Copilot-blue?style=for-the-badge" />
-      <br/><sub><b>Building intelligent AI assistants with LLMs</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🧠_Research-Medical_AI-red?style=for-the-badge" />
-      <br/><sub><b>96% accuracy lung nodule classification</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/📚_Learning-LLM_Fine--tuning_&_MLOps-green?style=for-the-badge" />
-      <br/><sub><b>Advanced transformer architectures</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🎯_Goal-Open_Source_&_Publications-orange?style=for-the-badge" />
-      <br/><sub><b>Contributing to AI research community</b></sub>
-    </td>
-  </tr>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=9059rohith&custom_title=🌌%20COSMIC%20CONTRIBUTION%20GALAXY%20🌌&bg_color=0D1117&color=F7931A&line=F7931A&point=FFFFFF&area=true&hide_border=true&theme=github-compact" width="100%"/>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=9059rohith&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+  
+</td>
+<td width="50%" align="center">
+
+```typescript
+🌟 GALACTIC ACHIEVEMENTS 🌟
+
+const achievements = {
+  🎯 accuracy: "96.0%",
+  🚀 missions: "15+ Active",
+  ⭐ commits: "1000+ This Year",
+  🧠 languages: "6+ Mastered",
+  💡 research: "Published",
+  🏆 impact: "Lives Saved"
+};
+
+// Status: LEGENDARY ✨
+console.log("🌌 Exploring infinity...");
+```
+
+</td>
+</tr>
 </table>
 
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
 <div align="center">
 
-## ⚡ Tech Arsenal
+## 🌌 CORE VALUES & MISSION OBJECTIVES 🌌
 
-<details open>
-<summary><b>🔥 Click to see my full tech stack</b></summary>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120">
+<br/><br/>
+**💫 IMPACT**
+<br/>
+<sub>Building technology<br/>that saves lives</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120">
+<br/><br/>
+**🚀 INNOVATION**
+<br/>
+<sub>Pushing the boundaries<br/>of what's possible</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120">
+<br/><br/>
+**⚡ EXCELLENCE**
+<br/>
+<sub>96% accuracy<br/>speaks volumes</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="120">
+<br/><br/>
+**🤝 COLLABORATION**
+<br/>
+<sub>Together we reach<br/>the stars</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br/>
 
 <div align="center">
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) |
-| **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+## 🛸 COMMUNICATION CHANNELS - CONNECT WITH GROUND CONTROL 🛸
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200">
 
-</details>
+<br/><br/>
 
-</div>
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="180" />
+<br/><br/>
+**💼 CAREER OPPORTUNITIES**
+<br/><br/>
+Full Stack • AI/ML • Research
+<br/><br/>
+<a href="https://www.linkedin.com/in/rohith-kumar-dhamagatla/">
+<img src="https://img.shields.io/badge/📡_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="180" />
+<br/><br/>
+**🚀 COLLABORATION REQUESTS**
+<br/><br/>
+Open Source • Research • Startups
+<br/><br/>
+<a href="https://github.com/9059rohith">
+<img src="https://img.shields.io/badge/⭐_Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-aa0a-a9389d3e105f.png" width="180" />
+<br/><br/>
+**📬 DIRECT TRANSMISSION**
+<br/><br/>
+Ideas • Questions • Opportunities
+<br/><br/>
+<a href="mailto:cb.sc.u4cse23018@cb.students.amrita.edu">
+<img src="https://img.shields.io/badge/📧_Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+</a>
+</td>
+</tr>
+</table>
 
 <br/>
 
----
+**🌐 EXPLORE OTHER DIMENSIONS:**
+
+[![Kaggle](https://img.shields.io/badge/📊_Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=000000)](https://kaggle.com/rohithd2006)
+[![Stack Overflow](https://img.shields.io/badge/💬_Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=000000)](https://stackoverflow.com/users/rohith-kumar-dhamagatla)
+[![CodePen](https://img.shields.io/badge/🎨_CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/rohith-kumar-dhamagatla)
+[![HackerRank](https://img.shields.io/badge/🏆_HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=000000)](https://www.hackerrank.com/rohith-kumar-dhamagatla)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/rohith.d.2006)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
+<br/><br/>
+
+## ✨ COSMIC WISDOM ✨
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=000000)
+
+<br/>
+
+### 🌟 *"In the vast cosmos of code, every commit is a star, every bug fix a constellation"* 🌟
+
+<br/>
+
+[![Follow](https://img.shields.io/github/followers/9059rohith?label=🚀%20JOIN%20THE%20CREW&style=for-the-badge&color=yellow&labelColor=000000)](https://github.com/9059rohith)
+[![Stars](https://img.shields.io/github/stars/9059rohith?label=⭐%20CONSTELLATION%20STARS&style=for-the-badge&color=orange&labelColor=000000)](https://github.com/9059rohith)
+
+<br/><br/>
+
+**💫 Thanks for visiting my corner of the digital universe! Let's build something extraordinary together! 💫**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=footer&text=🚀%20MISSION%20CONTINUES%20🌌&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+</div>
 
 ## 🏆 Featured Projects
 
