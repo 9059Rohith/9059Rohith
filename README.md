@@ -127,110 +127,72 @@ class RohithKumar:
 
 ---
 
-<br/>
+## 🏆 Featured Projects
 
 <div align="center">
 
-## 🎯 Featured Projects
+### 🤖 [Saathi AI - Copilot Assistant](https://github.com/RYL-NEUROACADEMY-PRIVATE-LIMITED/Saathi-Copilot-assistant-)
+*An intelligent AI-powered copilot assistant leveraging Large Language Models*
 
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Saathi AI - Copilot Assistant
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/RYL-NEUROACADEMY-PRIVATE-LIMITED/Saathi-Copilot-assistant-)
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-**An intelligent AI-powered copilot assistant leveraging LLMs**
-
-🔹 **Tech Stack:** Python | TensorFlow | React | Node.js | LangChain  
-🔹 **Features:**  
-  - 🎯 Context-aware intelligent responses  
-  - 🚀 Real-time learning capabilities  
-  - 📊 Advanced NLP processing  
-  - 🔗 Multi-model orchestration
-
-</td>
-<td width="50%">
-
-### 🫁 Medical AI - Lung Nodule Classification
-[![Paper](https://img.shields.io/badge/Research-Published-success?style=for-the-badge&logo=google-scholar)](https://grand-sherbet-631686.netlify.app/)
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-
-**GoogLeNet + Grad-CAM framework for explainable medical AI**
-
-🔹 **Tech Stack:** Python | TensorFlow | Keras | OpenCV  
-🔹 **Results:**  
-  - 📈 96.0% accuracy on LUNA16  
-  - 🎯 0.982 AUC-ROC score  
-  - 🔍 Integrated Grad-CAM explainability  
-  - 🏥 Clinical-grade performance
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Personal Portfolio
-[![Live](https://img.shields.io/badge/Live-Visit_Site-brightgreen?style=for-the-badge&logo=google-chrome)](https://grand-sherbet-631686.netlify.app/home.html)
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-**Modern portfolio showcasing my work and journey**
-
-🔹 **Tech Stack:** React | TailwindCSS | Framer Motion  
-🔹 **Features:**  
-  - ✨ Interactive UI/UX with animations  
-  - 📱 Fully responsive design  
-  - 🎨 Modern glassmorphism effects  
-  - ⚡ Optimized performance
-
-</td>
-<td width="50%">
-
-### 🔮 More Projects Coming Soon...
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/9059rohith)
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-**Working on exciting AI and Full Stack projects**
-
-🔹 **In Development:**  
-  - 🧠 Advanced NLP applications  
-  - 🎮 Real-time AI applications  
-  - 📊 Data visualization dashboards  
-  - 🚀 MLOps pipelines
-
-</td>
-</tr>
-</table>
-
-<br/>
+**Tech Stack:** Python | TensorFlow | React | Node.js | LangChain
+- 🎯 Intelligent context-aware responses
+- 🚀 Real-time learning capabilities
+- 📊 Advanced NLP processing
 
 ---
 
-<br/>
+### 🫁 Explainable Deep Learning for Lung Nodule Classification
+*State-of-the-art GoogLeNet + Grad-CAM framework achieving 96% accuracy*
 
-<div align="center">
+**Tech Stack:** Python | TensorFlow | Keras | OpenCV | LUNA16 Dataset
+- 📈 96.0% accuracy, 0.982 AUC-ROC
+- 🔍 Integrated Grad-CAM explainability
+- 🏥 Clinical-grade performance
 
-## 📊 GitHub Analytics
+---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=9059rohith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=9059rohith&theme=tokyonight&hide_border=true" />
+### 🌐 [My Portfolio Website](https://grand-sherbet-631686.netlify.app/home.html)
+*Personal portfolio showcasing my work and journey*
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9059rohith&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=9059rohith&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=9059rohith&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+**Tech Stack:** React | TailwindCSS | Framer Motion | Netlify
+- ✨ Interactive UI/UX
+- 📱 Fully responsive design
+- 🎨 Modern animations
 
 </div>
 
-<br/>
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=9059rohith&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9059rohith&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=9059rohith&theme=radical&hide_border=false)
+  
+</div>
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=9059rohith&theme=react-dark&hide_border=true&area=true)
+  
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=9059rohith&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
+  
+</div>
 
 ---
 
