@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohith%20Kumar%20Dhamagatla&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" />
@@ -235,58 +234,15 @@ class RohithKumar:
 
 ---
 
-<br/>
+## 📝 Latest Blog Posts & Research
 
-<div align="center">
-
-## 📚 Research & Publications
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Medical_AI-Published-success?style=for-the-badge&logo=google-scholar" />
-      <br/><br/>
-      <b>Explainable Deep Learning for Lung Nodule Classification</b>
-      <br/><sub>GoogLeNet + Grad-CAM Framework</sub>
-      <br/><sub>96% Accuracy | 0.982 AUC</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Deep_Learning-Research-blue?style=for-the-badge&logo=arxiv" />
-      <br/><br/>
-      <b>CNN Architectures for Medical Imaging</b>
-      <br/><sub>Transfer Learning Strategies</sub>
-      <br/><sub>Healthcare AI Applications</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/NLP-In_Progress-orange?style=for-the-badge&logo=huggingface" />
-      <br/><br/>
-      <b>LLM Applications in Healthcare</b>
-      <br/><sub>Fine-tuning & Deployment</sub>
-      <br/><sub>Clinical Decision Support</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 🎓 Education & Certifications
-
-<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-Amrita_Vishwa_Vidyapeetham-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📊_Deep_Learning-Specialization-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/☁️_AWS-Certified-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🐳_Docker-Certified-2496ED?style=for-the-badge" />
-
-</div>
-
-<br/>
+<!-- BLOG-POST-LIST:START -->
+- 🧠 **Deep Learning Architectures**: Exploring CNN variants for medical imaging
+- 🔬 **Transfer Learning in Healthcare**: Leveraging pre-trained models
+- 🤖 **Explainable AI**: Making deep learning interpretable for clinicians
+- 💡 **LLM Applications**: Building intelligent conversational agents
+- 🎯 **MLOps Best Practices**: From research to production
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
