@@ -127,41 +127,6 @@ class RohithKumar:
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🤖 [Saathi AI - Copilot Assistant](https://github.com/RYL-NEUROACADEMY-PRIVATE-LIMITED/Saathi-Copilot-assistant-)
-*An intelligent AI-powered copilot assistant leveraging Large Language Models*
-
-**Tech Stack:** Python | TensorFlow | React | Node.js | LangChain
-- 🎯 Intelligent context-aware responses
-- 🚀 Real-time learning capabilities
-- 📊 Advanced NLP processing
-
----
-
-### 🫁 Explainable Deep Learning for Lung Nodule Classification
-*State-of-the-art GoogLeNet + Grad-CAM framework achieving 96% accuracy*
-
-**Tech Stack:** Python | TensorFlow | Keras | OpenCV | LUNA16 Dataset
-- 📈 96.0% accuracy, 0.982 AUC-ROC
-- 🔍 Integrated Grad-CAM explainability
-- 🏥 Clinical-grade performance
-
----
-
-### 🌐 [My Portfolio Website](https://grand-sherbet-631686.netlify.app/home.html)
-*Personal portfolio showcasing my work and journey*
-
-**Tech Stack:** React | TailwindCSS | Framer Motion | Netlify
-- ✨ Interactive UI/UX
-- 📱 Fully responsive design
-- 🎨 Modern animations
-
-</div>
-
----
 
 ## 📊 GitHub Statistics
 
