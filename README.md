@@ -137,11 +137,7 @@ class RohithKumar:
 
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=9059rohith&theme=radical&hide_border=false)
-  
-</div>
+
 
 <div align="center">
   
