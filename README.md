@@ -8,11 +8,13 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://rohith-portfolio-pied.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-kumar-dhamagatla/)
-[![Kaggle](https://img.shields.io/badge/KAGGLE-follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rohithd2006)
-[![GitHub](https://img.shields.io/badge/GITHUB-follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/9059Rohith)
-[![Email](https://img.shields.io/badge/EMAIL-say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cb.sc.u4cse23018@cb.students.amrita.edu)
+<p>
+  <a href="https://rohith-portfolio-pied.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-visit-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rohith-kumar-dhamagatla/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+  <a href="https://kaggle.com/rohithd2006"><img alt="Kaggle" src="https://img.shields.io/badge/KAGGLE-follow-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white"></a>
+  <a href="https://github.com/9059Rohith"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+  <a href="mailto:cb.sc.u4cse23018@cb.students.amrita.edu"><img alt="Email" src="https://img.shields.io/badge/EMAIL-say_hello-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+</p>
 
 <br>
 
