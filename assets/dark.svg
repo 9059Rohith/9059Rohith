@@ -1,0 +1,279 @@
+<svg width="1180" height="610" viewBox="0 0 1180 610" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+  <clipPath id="rounded"><rect x="1" y="1" width="1178" height="608" rx="24"/></clipPath>
+
+  <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset="50%" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset="100%" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="6s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+
+  <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#7C3AED;#22D3EE" dur="4s" repeatCount="indefinite"/></stop>
+    <stop offset="100%" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#7C3AED" dur="4s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+
+  <radialGradient id="blobBlue" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="blobPurple" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="blobEmerald" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#10B981" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+  </radialGradient>
+
+  <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.06"/>
+    <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+
+  <linearGradient id="scan" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+  </linearGradient>
+
+  <linearGradient id="portraitBg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#172554"/>
+    <stop offset="52%" stop-color="#164E63"/>
+    <stop offset="100%" stop-color="#312E81"/>
+  </linearGradient>
+  <linearGradient id="portraitSkin" x1="20%" y1="0%" x2="80%" y2="100%">
+    <stop offset="0%" stop-color="#E8B89B"/>
+    <stop offset="100%" stop-color="#9D5F48"/>
+  </linearGradient>
+  <linearGradient id="portraitShirt" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7C3AED"/>
+    <stop offset="100%" stop-color="#0891B2"/>
+  </linearGradient>
+  <clipPath id="portraitCrop"><circle cx="180" cy="202" r="120"/></clipPath>
+
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glowSoft" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="noise">
+    <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.02 0"/>
+  </filter>
+  <filter id="portraitBlur" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="3.2"/>
+  </filter>
+  <filter id="portraitAura" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="18"/>
+  </filter>
+</defs>
+
+<g clip-path="url(#rounded)">
+  <rect x="0" y="0" width="1180" height="610" fill="#030712"/>
+
+  <circle cx="140" cy="120" r="260" fill="url(#blobBlue)">
+    <animate attributeName="cx" values="140;190;140" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="120;160;120" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="480" r="300" fill="url(#blobPurple)">
+    <animate attributeName="cx" values="900;850;900" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="480;440;480" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="950" cy="90" r="220" fill="url(#blobEmerald)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="0" y="0" width="1180" height="610" filter="url(#noise)"/>
+
+  <!-- floating particles -->
+  <g fill="#8FE3FF">
+    <circle cx="120" cy="500" r="1.6" opacity="0.5"><animate attributeName="cy" values="500;480;500" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="380" cy="80" r="1.3" opacity="0.4"><animate attributeName="cy" values="80;100;80" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="60" r="1.5" opacity="0.5"><animate attributeName="cy" values="60;40;60" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="200" r="1.4" opacity="0.4"><animate attributeName="cy" values="200;225;200" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="560" r="1.6" opacity="0.5"><animate attributeName="cy" values="560;540;560" dur="6.5s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="300" r="1.2" opacity="0.3"><animate attributeName="cy" values="300;320;300" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="550" r="1.3" opacity="0.4"><animate attributeName="cy" values="550;530;550" dur="7.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- border shimmer -->
+  <rect x="3" y="3" width="1174" height="604" rx="22" fill="none" stroke="url(#accentGrad)" stroke-width="1.4" stroke-dasharray="40 14" opacity="0.7">
+    <animate attributeName="stroke-dashoffset" values="0;-1000" dur="14s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1" y="1" width="1178" height="608" rx="24" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- divider -->
+  <line x1="448" y1="46" x2="448" y2="564" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- ================= LEFT: SOFT-FOCUS PORTRAIT ================= -->
+  <g transform="translate(44,50)">
+    <rect x="0" y="0" width="360" height="510" rx="28" fill="#0B1220" fill-opacity="0.68" stroke="rgba(255,255,255,0.10)"/>
+    <path d="M24 64H336" stroke="rgba(255,255,255,0.08)"/>
+    <circle cx="28" cy="31" r="4" fill="#22D3EE"/>
+    <text x="42" y="36" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="2" fill="#94A3B8">PROFILE / 01</text>
+    <text x="332" y="36" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="10" fill="#64748B">ONLINE</text>
+
+    <circle cx="180" cy="202" r="132" fill="#7C3AED" fill-opacity="0.24" filter="url(#portraitAura)">
+      <animate attributeName="r" values="126;138;126" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="202" r="127" fill="none" stroke="url(#accentGrad)" stroke-width="1.5" stroke-dasharray="9 8" opacity="0.85">
+      <animateTransform attributeName="transform" type="rotate" from="0 180 202" to="360 180 202" dur="24s" repeatCount="indefinite"/>
+    </circle>
+
+    <g clip-path="url(#portraitCrop)">
+      <circle cx="180" cy="202" r="120" fill="url(#portraitBg)"/>
+      <circle cx="112" cy="138" r="82" fill="#7C3AED" fill-opacity="0.45" filter="url(#portraitAura)"/>
+      <circle cx="247" cy="258" r="88" fill="#22D3EE" fill-opacity="0.34" filter="url(#portraitAura)"/>
+      <g filter="url(#portraitBlur)">
+        <path d="M63 335C76 286 119 268 151 261H209C241 268 284 286 297 335Z" fill="url(#portraitShirt)"/>
+        <path d="M151 258L159 226H201L209 258C199 271 191 278 180 278C169 278 161 271 151 258Z" fill="url(#portraitSkin)"/>
+        <ellipse cx="126" cy="190" rx="10" ry="19" fill="#9D5F48"/>
+        <ellipse cx="234" cy="190" rx="10" ry="19" fill="#9D5F48"/>
+        <path d="M128 163C132 120 151 103 180 103C211 103 229 121 233 163L229 214C224 247 205 264 180 264C155 264 136 247 131 214Z" fill="url(#portraitSkin)"/>
+        <path d="M124 174C118 145 127 112 151 96C171 82 208 88 226 107C240 123 240 151 233 176L224 147L205 128C183 143 156 145 134 133Z" fill="#090D18"/>
+        <path d="M145 181C153 176 161 176 169 180M191 180C199 176 207 176 215 181" stroke="#4B2D27" stroke-width="4" stroke-linecap="round"/>
+        <ellipse cx="158" cy="190" rx="5" ry="4" fill="#101522"/>
+        <ellipse cx="202" cy="190" rx="5" ry="4" fill="#101522"/>
+        <path d="M180 190L176 215L184 217" stroke="#8C5343" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M163 232C174 239 187 239 198 232" stroke="#67372F" stroke-width="3.5" stroke-linecap="round"/>
+      </g>
+      <g stroke="#FFFFFF" stroke-opacity="0.10">
+        <path d="M60 154H300M60 178H300M60 202H300M60 226H300M60 250H300"/>
+      </g>
+      <rect x="60" y="82" width="240" height="240" fill="url(#glass)" opacity="0.45"/>
+    </g>
+
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+      <text x="180" y="371" font-size="25" font-weight="700" letter-spacing="1.4" fill="#F8FAFC">ROHITH KUMAR</text>
+      <text x="180" y="398" font-size="12" font-weight="600" letter-spacing="2.2" fill="#22D3EE">AI / ML  ·  FULL STACK</text>
+    </g>
+    <rect x="56" y="426" width="248" height="42" rx="21" fill="#111827" stroke="url(#accentGrad)" stroke-width="1"/>
+    <circle cx="80" cy="447" r="5" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="94" y="452" font-family="Consolas, Menlo, monospace" font-size="12" fill="#CBD5E1">BUILDING WHAT MATTERS</text>
+    <text x="180" y="493" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="9.5" letter-spacing="1.8" fill="#64748B">LEARN  /  BUILD  /  SHIP  /  REPEAT</text>
+  </g>
+
+  <!-- scanline sweep across whole banner -->
+  <rect x="0" y="0" width="1180" height="10" fill="url(#scan)">
+    <animate attributeName="y" values="40;570;40" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- glass reflection -->
+  <rect x="0" y="0" width="1180" height="610" fill="url(#glass)"/>
+
+  <!-- ================= RIGHT: TERMINAL ================= -->
+  <g transform="translate(490,50)">
+    <rect x="0" y="0" width="650" height="500" rx="16" fill="#0F172A" fill-opacity="0.7" stroke="rgba(255,255,255,0.08)"/>
+    <rect x="0" y="0" width="650" height="34" rx="16" fill="#111827" fill-opacity="0.6"/>
+    <circle cx="20" cy="17" r="6" fill="#EF4444"/>
+    <circle cx="40" cy="17" r="6" fill="#F59E0B"/>
+    <circle cx="60" cy="17" r="6" fill="#10B981"/>
+    <text x="325" y="21" text-anchor="middle" font-family="Consolas,monospace" font-size="11" fill="#94A3B8">rohith@dev ~ zsh</text>
+
+    <g font-family="Consolas, Menlo, monospace">
+      <g clip-path="url(#greetClip)">
+        <text x="20" y="70" font-size="21" font-weight="600" fill="#F8FAFC">Hi &#128075;, I'm Rohith Kumar Dhamagatla</text>
+      </g>
+      <clipPath id="greetClip"><rect x="0" y="45" height="35" width="0"><animate attributeName="width" from="0" to="560" dur="1.4s" begin="0.2s" fill="freeze"/></rect></clipPath>
+
+      <text x="20" y="100" font-size="16" fill="#22D3EE">$&#160;</text>
+      <g clip-path="url(#p0)"><text x="42" y="100" font-size="16" fill="#22D3EE">Full Stack Developer</text></g>
+      <g clip-path="url(#p1)"><text x="42" y="100" font-size="16" fill="#22D3EE">AI / ML Engineer</text></g>
+      <g clip-path="url(#p2)"><text x="42" y="100" font-size="16" fill="#22D3EE">LLM &amp; RAG Specialist</text></g>
+      <g clip-path="url(#p3)"><text x="42" y="100" font-size="16" fill="#22D3EE">Open Source Contributor</text></g>
+      <clipPath id="p0"><rect x="0" y="85" height="20" width="0"><animate attributeName="width" values="0;400;400;0;0" keyTimes="0;0.0333;0.2167;0.25;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+      <clipPath id="p1"><rect x="0" y="85" height="20" width="0"><animate attributeName="width" values="0;0;400;400;0;0" keyTimes="0;0.25;0.2833;0.4667;0.5;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+      <clipPath id="p2"><rect x="0" y="85" height="20" width="0"><animate attributeName="width" values="0;0;400;400;0;0" keyTimes="0;0.5;0.5333;0.7167;0.75;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+      <clipPath id="p3"><rect x="0" y="85" height="20" width="0"><animate attributeName="width" values="0;0;400;400;0" keyTimes="0;0.75;0.7833;0.9667;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+      <rect x="330" y="87" width="8" height="15" fill="#22D3EE"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect>
+
+      <line x1="20" y1="120" x2="630" y2="120" stroke="rgba(255,255,255,0.08)"/>
+
+      <g font-size="14.5" fill="#CBD5E1">
+        <text x="20" y="150" opacity="0"><tspan fill="#94A3B8">location&#160;&#160;&#160;</tspan><tspan fill="#F8FAFC"> Anantapur, Andhra Pradesh, India</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.8s" fill="freeze"/></text>
+        <text x="20" y="182" opacity="0"><tspan fill="#94A3B8">education&#160;&#160;</tspan><tspan fill="#F8FAFC"> B.Tech CSE (AI/ML), Amrita Vishwa Vidyapeetham</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.3s" fill="freeze"/></text>
+        <text x="20" y="214" opacity="0"><tspan fill="#94A3B8">also&#160;pursuing</tspan><tspan fill="#F8FAFC"> B.S. Data Science &amp; Applications, IIT Madras</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.8s" fill="freeze"/></text>
+        <text x="20" y="246" opacity="0"><tspan fill="#94A3B8">focus&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#F8FAFC"> LLM / RAG Engineering &#183; Speech AI &#183; Full Stack</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.3s" fill="freeze"/></text>
+        <text x="20" y="278" opacity="0"><tspan fill="#94A3B8">portfolio&#160;&#160;</tspan><tspan fill="#F8FAFC"> rohith-portfolio-pied.vercel.app</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.8s" fill="freeze"/></text>
+        <text x="20" y="310" opacity="0"><tspan fill="#94A3B8">email&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#F8FAFC"> cb.sc.u4cse23018@cb.students.amrita.edu</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4.3s" fill="freeze"/></text>
+      </g>
+
+      <!-- skill pills -->
+      <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="4.8s" fill="freeze"/>
+        <text x="20" y="345" font-size="12" fill="#94A3B8">skills</text>
+        <g font-size="12.5" font-family="Consolas,monospace">
+          <g transform="translate(20,358)">
+            <rect width="96" height="30" rx="15" fill="rgba(124,58,237,0.12)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="0s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#E2E8F0">React</text>
+          </g>
+          <g transform="translate(126,358)">
+            <rect width="96" height="30" rx="15" fill="rgba(124,58,237,0.12)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="0.3s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#E2E8F0">Next.js</text>
+          </g>
+          <g transform="translate(232,358)">
+            <rect width="96" height="30" rx="15" fill="rgba(124,58,237,0.12)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="0.6s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#E2E8F0">Node.js</text>
+          </g>
+          <g transform="translate(338,358)">
+            <rect width="110" height="30" rx="15" fill="rgba(124,58,237,0.12)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="0.9s" repeatCount="indefinite"/></rect>
+            <text x="55" y="20" text-anchor="middle" fill="#E2E8F0">TypeScript</text>
+          </g>
+          <g transform="translate(458,358)">
+            <rect width="96" height="30" rx="15" fill="rgba(124,58,237,0.12)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="1.2s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#E2E8F0">Python</text>
+          </g>
+
+          <g transform="translate(20,398)">
+            <rect width="96" height="30" rx="15" fill="rgba(124,58,237,0.12)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="1.5s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#E2E8F0">Docker</text>
+          </g>
+          <g transform="translate(126,398)">
+            <rect width="96" height="30" rx="15" fill="rgba(124,58,237,0.12)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="1.8s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#E2E8F0">Postgres</text>
+          </g>
+          <g transform="translate(232,398)">
+            <rect width="96" height="30" rx="15" fill="rgba(124,58,237,0.12)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="2.1s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#E2E8F0">AWS</text>
+          </g>
+          <g transform="translate(338,398)">
+            <rect width="96" height="30" rx="15" fill="rgba(124,58,237,0.12)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="2.4s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#E2E8F0">Git</text>
+          </g>
+          <g transform="translate(444,398)">
+            <rect width="110" height="30" rx="15" fill="rgba(124,58,237,0.12)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="2.7s" repeatCount="indefinite"/></rect>
+            <text x="55" y="20" text-anchor="middle" fill="#E2E8F0">FastAPI</text>
+          </g>
+        </g>
+      </g>
+
+      <!-- socials -->
+      <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="5.4s" fill="freeze"/>
+        <g transform="translate(38,450)" filter="url(#glowSoft)">
+          <circle r="18" fill="rgba(255,255,255,0.05)" stroke="url(#accentGrad)"/>
+          <text text-anchor="middle" dy="5" font-size="12" fill="#F8FAFC" font-family="Consolas,monospace">GH</text>
+        </g>
+        <g transform="translate(94,450)" filter="url(#glowSoft)">
+          <circle r="18" fill="rgba(255,255,255,0.05)" stroke="url(#accentGrad)"/>
+          <text text-anchor="middle" dy="5" font-size="12" fill="#F8FAFC" font-family="Consolas,monospace">in</text>
+        </g>
+        <g transform="translate(150,450)" filter="url(#glowSoft)">
+          <circle r="18" fill="rgba(255,255,255,0.05)" stroke="url(#accentGrad)"/>
+          <text text-anchor="middle" dy="5" font-size="11" fill="#F8FAFC" font-family="Consolas,monospace">WWW</text>
+        </g>
+        <g transform="translate(206,450)" filter="url(#glowSoft)">
+          <circle r="18" fill="rgba(255,255,255,0.05)" stroke="url(#accentGrad)"/>
+          <text text-anchor="middle" dy="5" font-size="12" fill="#F8FAFC" font-family="Consolas,monospace">@</text>
+        </g>
+        <text x="248" y="455" font-size="12" fill="#64748B" font-family="Consolas,monospace">github &#183; linkedin &#183; portfolio &#183; email</text>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>
