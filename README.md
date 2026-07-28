@@ -1,9 +1,10 @@
 <div align="center">
 
 <picture>
+  <!-- The left HUD feed is built from assets/hologram-avatar.jpg and embedded in both SVG themes. -->
   <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-  <img alt="Rohith Kumar Dhamagatla — AI/ML engineer and full-stack developer" src="./assets/dark.svg" width="100%">
+  <img alt="Rohith Kumar Dhamagatla — holographic AI/ML developer portrait" src="./assets/hologram-avatar.jpg" width="100%">
 </picture>
 
 <br>
