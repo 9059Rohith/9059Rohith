@@ -1,243 +1,234 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohith%20Kumar%20Dhamagatla&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FFcc&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+AI+Researcher;Building+Intelligent+Systems+with+Deep+Learning;Transforming+Healthcare+through+Medical+AI;LLM+Explorer+%7C+MLOps+Engineer" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohith-kumar-dhamagatla/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/rohithd2006"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
-  <a href="mailto:cb.sc.u4cse23018@cb.students.amrita.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://grand-sherbet-631686.netlify.app/home.html"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://instagram.com/rohith.d.2006"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=9059rohith&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/9059rohith?label=Followers&style=for-the-badge&color=green" alt="followers" />
-  <img src="https://img.shields.io/github/stars/9059rohith?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-</p>
-
-</div>
-
-<br/>
-
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<div align="left">
-
-## 🚀 About Me
-
-```python
-class RohithKumar:
-    def __init__(self):
-        self.name = "Rohith Kumar Dhamagatla"
-        self.role = "Full Stack Developer & AI Researcher"
-        self.education = "Amrita Vishwa Vidyapeetham"
-        self.location = "Coimbatore, India"
-        self.current_work = ["Saathi AI", "Medical AI Research"]
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "TypeScript", "C++", "Go", "Java"],
-            "frontend": ["React", "Next.js", "Vue.js", "React Native", "Flutter"],
-            "backend": ["Node.js", "Express", "MongoDB", "PostgreSQL", "Redis"],
-            "ai_ml": ["TensorFlow", "PyTorch", "Keras", "OpenCV", "Scikit-learn"],
-            "cloud_devops": ["AWS", "Docker", "Kubernetes", "Kafka", "Linux"],
-            "specialization": ["Deep Learning", "Computer Vision", "NLP", "LLMs"]
-        }
-    
-    def current_focus(self):
-        return "Building explainable AI systems for healthcare"
-```
-
-</div>
-
-<br clear="right"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 💼 What I'm Up To
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🔭_Currently_Working-Saathi_AI_Copilot-blue?style=for-the-badge" />
-      <br/><sub><b>Building intelligent AI assistants with LLMs</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🧠_Research-Medical_AI-red?style=for-the-badge" />
-      <br/><sub><b>96% accuracy lung nodule classification</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/📚_Learning-LLM_Fine--tuning_&_MLOps-green?style=for-the-badge" />
-      <br/><sub><b>Advanced transformer architectures</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🎯_Goal-Open_Source_&_Publications-orange?style=for-the-badge" />
-      <br/><sub><b>Contributing to AI research community</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## ⚡ Tech Arsenal
-
-<details open>
-<summary><b>🔥 Click to see my full tech stack</b></summary>
-<br/>
-
-<div align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) |
-| **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
-
-</div>
-
-</details>
-
-</div>
-
-<br/>
-
----
-
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=9059rohith&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9059rohith&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
-
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=9059rohith&theme=react-dark&hide_border=true&area=true)
-  
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=9059rohith&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
-  
-</div>
-
----
-
-## 📝 Latest Blog Posts & Research
-
-<!-- BLOG-POST-LIST:START -->
-- 🧠 **Deep Learning Architectures**: Exploring CNN variants for medical imaging
-- 🔬 **Transfer Learning in Healthcare**: Leveraging pre-trained models
-- 🤖 **Explainable AI**: Making deep learning interpretable for clinicians
-- 💡 **LLM Applications**: Building intelligent conversational agents
-- 🎯 **MLOps Best Practices**: From research to production
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 Current Focus
-
-```javascript
-const rohith = {
-    currentlyLearning: ["LLM Fine-tuning", "Distributed Systems", "MLOps"],
-    workingOn: ["Saathi AI", "Medical Image Analysis Research"],
-    interests: ["AI/ML", "Full Stack Development", "System Design", "Research"],
-    funFact: "I can debug faster than I can explain the bug 🐛⚡",
-    motto: "Code with purpose, debug with patience, deploy with confidence"
-};
-```
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/9059rohith/9059rohith/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rohith-kumar-dhamagatla/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://kaggle.com/rohithd2006">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="https://instagram.com/rohith.d.2006">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://codepen.io/rohith-kumar-dhamagatla">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/rohith-kumar-dhamagatla">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/rohith-kumar-dhamagatla">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-### 📧 Email: cb.sc.u4cse23018@cb.students.amrita.edu
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Dev Humor
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-
----
-
-### ✨ *"Code is poetry written in logic"*
-
-**⭐ From [9059rohith](https://github.com/9059rohith)**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
+<svg width="1180" height="610" viewBox="0 0 1180 610" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+  <clipPath id="rounded"><rect x="1" y="1" width="1178" height="608" rx="24"/></clipPath>
+
+  <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#2563EB"><animate attributeName="stop-color" values="#2563EB;#06B6D4;#10B981;#2563EB" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset="50%" stop-color="#06B6D4"><animate attributeName="stop-color" values="#06B6D4;#10B981;#2563EB;#06B6D4" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset="100%" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#2563EB;#06B6D4;#10B981" dur="6s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+
+  <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#06B6D4"><animate attributeName="stop-color" values="#06B6D4;#2563EB;#06B6D4" dur="4s" repeatCount="indefinite"/></stop>
+    <stop offset="100%" stop-color="#2563EB"><animate attributeName="stop-color" values="#2563EB;#06B6D4;#2563EB" dur="4s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+
+  <radialGradient id="blobBlue" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="blobPurple" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#2563EB" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="blobEmerald" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#10B981" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+  </radialGradient>
+
+  <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.06"/>
+    <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+
+  <linearGradient id="scan" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#06B6D4" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+  </linearGradient>
+
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glowSoft" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="noise">
+    <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.025 0"/>
+  </filter>
+</defs>
+
+<g clip-path="url(#rounded)">
+  <rect x="0" y="0" width="1180" height="610" fill="#FFFFFF"/>
+
+  <circle cx="140" cy="120" r="260" fill="url(#blobBlue)">
+    <animate attributeName="cx" values="140;190;140" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="120;160;120" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="480" r="300" fill="url(#blobPurple)">
+    <animate attributeName="cx" values="900;850;900" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="480;440;480" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="950" cy="90" r="220" fill="url(#blobEmerald)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="0" y="0" width="1180" height="610" filter="url(#noise)"/>
+
+  <!-- floating particles -->
+  <g fill="#8FE3FF">
+    <circle cx="120" cy="500" r="1.6" opacity="0.5"><animate attributeName="cy" values="500;480;500" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="380" cy="80" r="1.3" opacity="0.4"><animate attributeName="cy" values="80;100;80" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="60" r="1.5" opacity="0.5"><animate attributeName="cy" values="60;40;60" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="200" r="1.4" opacity="0.4"><animate attributeName="cy" values="200;225;200" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="560" r="1.6" opacity="0.5"><animate attributeName="cy" values="560;540;560" dur="6.5s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="300" r="1.2" opacity="0.3"><animate attributeName="cy" values="300;320;300" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="550" r="1.3" opacity="0.4"><animate attributeName="cy" values="550;530;550" dur="7.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- border shimmer -->
+  <rect x="3" y="3" width="1174" height="604" rx="22" fill="none" stroke="url(#accentGrad)" stroke-width="1.4" stroke-dasharray="40 14" opacity="0.7">
+    <animate attributeName="stroke-dashoffset" values="0;-1000" dur="14s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1" y="1" width="1178" height="608" rx="24" fill="none" stroke="rgba(15,23,42,0.08)" stroke-width="1"/>
+
+  <!-- divider -->
+  <line x1="448" y1="46" x2="448" y2="564" stroke="rgba(15,23,42,0.08)" stroke-width="1"/>
+
+  <!-- ================= LEFT: ASCII PORTRAIT ================= -->
+  <g transform="translate(40,70)">
+    <animateTransform attributeName="transform" type="translate" values="40,70;40,64;40,70" dur="5s" repeatCount="indefinite" additive="sum"/>
+    <g font-family="Consolas, Menlo, monospace" font-size="13.5" fill="url(#asciiGrad)" filter="url(#glowSoft)" xml:space="preserve">
+      <text x="0" y="0">     ______________________<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.1s" fill="freeze"/></text>
+      <text x="0" y="20">    /                      \<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.35s" fill="freeze"/></text>
+      <text x="0" y="40">   /   .----------------.   \<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.6s" fill="freeze"/></text>
+      <text x="0" y="60">  |   |   ############   |   |<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.85s" fill="freeze"/></text>
+      <text x="0" y="80">  |   |  ##          ##  |   |<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.1s" fill="freeze"/></text>
+      <text x="0" y="100">  |   |  ##  O    O  ##  |   |<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.35s" fill="freeze"/></text>
+      <text x="0" y="120">  |   |  ##          ##  |   |<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.6s" fill="freeze"/></text>
+      <text x="0" y="140">  |   |  ##   \__/   ##  |   |<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.85s" fill="freeze"/></text>
+      <text x="0" y="160">  |   |   ################   |<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.1s" fill="freeze"/></text>
+      <text x="0" y="180">  |    \________________/    |<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.35s" fill="freeze"/></text>
+      <text x="0" y="200">  |                          |<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.6s" fill="freeze"/></text>
+      <text x="0" y="220">  |     R.K.DHAMAGATLA        |<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.85s" fill="freeze"/></text>
+      <text x="0" y="240">  |     AI / ML  ENGINEER     |<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.1s" fill="freeze"/></text>
+      <text x="0" y="260">  |     FULL STACK DEV        |<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.35s" fill="freeze"/></text>
+      <text x="0" y="280">  |    &lt; building things /&gt;  |<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.6s" fill="freeze"/></text>
+      <text x="0" y="300">   \________________________/<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.85s" fill="freeze"/></text>
+    </g>
+    <rect x="0" y="292" width="10" height="16" fill="#06B6D4" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32;0.34;0.66;0.68;1" dur="1.2s" begin="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- scanline sweep across whole banner -->
+  <rect x="0" y="0" width="1180" height="10" fill="url(#scan)">
+    <animate attributeName="y" values="40;570;40" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- glass reflection -->
+  <rect x="0" y="0" width="1180" height="610" fill="url(#glass)"/>
+
+  <!-- ================= RIGHT: TERMINAL ================= -->
+  <g transform="translate(490,50)">
+    <rect x="0" y="0" width="650" height="500" rx="16" fill="#F8FAFC" fill-opacity="0.7" stroke="rgba(15,23,42,0.08)"/>
+    <rect x="0" y="0" width="650" height="34" rx="16" fill="#EEF2F7" fill-opacity="0.6"/>
+    <circle cx="20" cy="17" r="6" fill="#EF4444"/>
+    <circle cx="40" cy="17" r="6" fill="#F59E0B"/>
+    <circle cx="60" cy="17" r="6" fill="#10B981"/>
+    <text x="325" y="21" text-anchor="middle" font-family="Consolas,monospace" font-size="11" fill="#64748B">rohith@dev ~ zsh</text>
+
+    <g font-family="Consolas, Menlo, monospace">
+      <g clip-path="url(#greetClip)">
+        <text x="20" y="70" font-size="21" font-weight="600" fill="#0F172A">Hi &#128075;, I'm Rohith Kumar Dhamagatla</text>
+      </g>
+      <clipPath id="greetClip"><rect x="0" y="45" height="35" width="0"><animate attributeName="width" from="0" to="560" dur="1.4s" begin="0.2s" fill="freeze"/></rect></clipPath>
+
+      <text x="20" y="100" font-size="16" fill="#06B6D4">$&#160;</text>
+      <g clip-path="url(#p0)"><text x="42" y="100" font-size="16" fill="#06B6D4">Full Stack Developer</text></g>
+      <g clip-path="url(#p1)"><text x="42" y="100" font-size="16" fill="#06B6D4">AI / ML Engineer</text></g>
+      <g clip-path="url(#p2)"><text x="42" y="100" font-size="16" fill="#06B6D4">LLM &amp; RAG Specialist</text></g>
+      <g clip-path="url(#p3)"><text x="42" y="100" font-size="16" fill="#06B6D4">Open Source Contributor</text></g>
+      <clipPath id="p0"><rect x="0" y="85" height="20" width="0"><animate attributeName="width" values="0;400;400;0;0" keyTimes="0;0.0333;0.2167;0.25;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+      <clipPath id="p1"><rect x="0" y="85" height="20" width="0"><animate attributeName="width" values="0;0;400;400;0;0" keyTimes="0;0.25;0.2833;0.4667;0.5;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+      <clipPath id="p2"><rect x="0" y="85" height="20" width="0"><animate attributeName="width" values="0;0;400;400;0;0" keyTimes="0;0.5;0.5333;0.7167;0.75;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+      <clipPath id="p3"><rect x="0" y="85" height="20" width="0"><animate attributeName="width" values="0;0;400;400;0" keyTimes="0;0.75;0.7833;0.9667;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+      <rect x="330" y="87" width="8" height="15" fill="#06B6D4"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect>
+
+      <line x1="20" y1="120" x2="630" y2="120" stroke="rgba(15,23,42,0.08)"/>
+
+      <g font-size="14.5" fill="#334155">
+        <text x="20" y="150" opacity="0"><tspan fill="#64748B">location&#160;&#160;&#160;</tspan><tspan fill="#0F172A"> Anantapur, Andhra Pradesh, India</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.8s" fill="freeze"/></text>
+        <text x="20" y="182" opacity="0"><tspan fill="#64748B">education&#160;&#160;</tspan><tspan fill="#0F172A"> B.Tech CSE (AI/ML), Amrita Vishwa Vidyapeetham</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.3s" fill="freeze"/></text>
+        <text x="20" y="214" opacity="0"><tspan fill="#64748B">also&#160;pursuing</tspan><tspan fill="#0F172A"> B.S. Data Science &amp; Applications, IIT Madras</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.8s" fill="freeze"/></text>
+        <text x="20" y="246" opacity="0"><tspan fill="#64748B">focus&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#0F172A"> LLM / RAG Engineering &#183; Speech AI &#183; Full Stack</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.3s" fill="freeze"/></text>
+        <text x="20" y="278" opacity="0"><tspan fill="#64748B">portfolio&#160;&#160;</tspan><tspan fill="#0F172A"> rohith-portfolio-pied.vercel.app</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.8s" fill="freeze"/></text>
+        <text x="20" y="310" opacity="0"><tspan fill="#64748B">email&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#0F172A"> cb.sc.u4cse23018@cb.students.amrita.edu</tspan><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4.3s" fill="freeze"/></text>
+      </g>
+
+      <!-- skill pills -->
+      <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="4.8s" fill="freeze"/>
+        <text x="20" y="345" font-size="12" fill="#64748B">skills</text>
+        <g font-size="12.5" font-family="Consolas,monospace">
+          <g transform="translate(20,358)">
+            <rect width="96" height="30" rx="15" fill="rgba(37,99,235,0.08)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="0s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#0F172A">React</text>
+          </g>
+          <g transform="translate(126,358)">
+            <rect width="96" height="30" rx="15" fill="rgba(37,99,235,0.08)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="0.3s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#0F172A">Next.js</text>
+          </g>
+          <g transform="translate(232,358)">
+            <rect width="96" height="30" rx="15" fill="rgba(37,99,235,0.08)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="0.6s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#0F172A">Node.js</text>
+          </g>
+          <g transform="translate(338,358)">
+            <rect width="110" height="30" rx="15" fill="rgba(37,99,235,0.08)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="0.9s" repeatCount="indefinite"/></rect>
+            <text x="55" y="20" text-anchor="middle" fill="#0F172A">TypeScript</text>
+          </g>
+          <g transform="translate(458,358)">
+            <rect width="96" height="30" rx="15" fill="rgba(37,99,235,0.08)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="1.2s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#0F172A">Python</text>
+          </g>
+
+          <g transform="translate(20,398)">
+            <rect width="96" height="30" rx="15" fill="rgba(37,99,235,0.08)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="1.5s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#0F172A">Docker</text>
+          </g>
+          <g transform="translate(126,398)">
+            <rect width="96" height="30" rx="15" fill="rgba(37,99,235,0.08)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="1.8s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#0F172A">Postgres</text>
+          </g>
+          <g transform="translate(232,398)">
+            <rect width="96" height="30" rx="15" fill="rgba(37,99,235,0.08)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="2.1s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#0F172A">AWS</text>
+          </g>
+          <g transform="translate(338,398)">
+            <rect width="96" height="30" rx="15" fill="rgba(37,99,235,0.08)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="2.4s" repeatCount="indefinite"/></rect>
+            <text x="48" y="20" text-anchor="middle" fill="#0F172A">Git</text>
+          </g>
+          <g transform="translate(444,398)">
+            <rect width="110" height="30" rx="15" fill="rgba(37,99,235,0.08)" stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)"><animate attributeName="opacity" values="0.75;1;0.75" dur="3s" begin="2.7s" repeatCount="indefinite"/></rect>
+            <text x="55" y="20" text-anchor="middle" fill="#0F172A">FastAPI</text>
+          </g>
+        </g>
+      </g>
+
+      <!-- socials -->
+      <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="5.4s" fill="freeze"/>
+        <g transform="translate(38,450)" filter="url(#glowSoft)">
+          <circle r="18" fill="rgba(15,23,42,0.04)" stroke="url(#accentGrad)"/>
+          <text text-anchor="middle" dy="5" font-size="12" fill="#0F172A" font-family="Consolas,monospace">GH</text>
+        </g>
+        <g transform="translate(94,450)" filter="url(#glowSoft)">
+          <circle r="18" fill="rgba(15,23,42,0.04)" stroke="url(#accentGrad)"/>
+          <text text-anchor="middle" dy="5" font-size="12" fill="#0F172A" font-family="Consolas,monospace">in</text>
+        </g>
+        <g transform="translate(150,450)" filter="url(#glowSoft)">
+          <circle r="18" fill="rgba(15,23,42,0.04)" stroke="url(#accentGrad)"/>
+          <text text-anchor="middle" dy="5" font-size="11" fill="#0F172A" font-family="Consolas,monospace">WWW</text>
+        </g>
+        <g transform="translate(206,450)" filter="url(#glowSoft)">
+          <circle r="18" fill="rgba(15,23,42,0.04)" stroke="url(#accentGrad)"/>
+          <text text-anchor="middle" dy="5" font-size="12" fill="#0F172A" font-family="Consolas,monospace">@</text>
+        </g>
+        <text x="248" y="455" font-size="12" fill="#64748B" font-family="Consolas,monospace">github &#183; linkedin &#183; portfolio &#183; email</text>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>
